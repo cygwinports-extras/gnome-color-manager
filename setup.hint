@@ -1,0 +1,5 @@
+category: Gnome
+requires: libcairo2 libcanberra-gtk3_0 libcanberra0 libclutter-gtk1.0_0 libclutter1.0_0 libcogl5 libcolord1 libexif12 libexiv2_11 libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk3_0 libintl8 liblcms2_2 libmash0.2_0 libpango1.0_0 libstdc++6 libtiff5 libvte2.90_9
+sdesc: "GNOME color profile manager"
+ldesc: "GNOME Color Manager is a session framework that makes it easy to 
+manage, install and generate color profiles in the GNOME desktop."
